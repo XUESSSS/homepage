@@ -67,6 +67,4 @@ highlight_name: true
 
 XUE SHA is a PHD student at the Isable Lab. Her research interests include electrochemical biosensor, disease detection and preparation and funtionalization of novel nanomaterials. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
